@@ -35,7 +35,7 @@ I turn operational needs into dashboards, automated workflows, and business appl
 
 ## Selected Work
 
-**📊 Business Intelligence & Reporting**  
+**📋Business Intelligence & Reporting**  
 Power BI dashboards and automated operational reports, supported by centralized data management with Microsoft Access and Excel VBA.
 
 **⚙️ Odoo ERP Development**  
