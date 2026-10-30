@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="mailto:andrey.zamora2004@hotmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge" alt="Email Andrey">
-</a>
+    <img src="https://img.shields.io/badge/Email_Me-16A34A?style=for-the-badge" alt="Email Andrey">
+  </a>
   <a href="https://www.linkedin.com/in/andrey-zamora-092712347/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Andrey">
   </a>
