@@ -51,6 +51,7 @@ Built a custom attendance and workforce management solution in Odoo, introducing
 **🔐 Compliance & Access Controls**  
 Support for PCI DSS documentation, audit evidence organization, and Microsoft Entra ID access control validation.
 
+
 ## Public Projects
 
 <!-- Cuando los tengas, enlaza aquí tus proyectos públicos con datos ficticios -->
@@ -146,6 +147,17 @@ Universidad Latina de Costa Rica · 2023–2026
   <img src="https://img.shields.io/badge/Udemy-Fundamentals_of_Business_Data_Analysis-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Fundamentals of Business Data Analysis">
   <img src="https://img.shields.io/badge/Udemy-Power_BI_Data_Analysis_and_Business_Intelligence-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Power BI - Data Analysis and Business Intelligence">
 </p>
+
+</details>
+
+<details>
+<summary><strong>Languages in my public repositories</strong></summary>
+
+<br>
+
+![Public repository languages](https://ghstats.dev/api/langs?username=AndreyZ15&theme=tokyonight&layout=donut&max_langs=6&hide_border=true&border_radius=12)
+
+*This chart reflects public repository code, not my full professional toolkit.*
 
 </details>
 
