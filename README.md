@@ -115,14 +115,37 @@ Universidad Latina de Costa Rica · 2023–2026
 <details>
 <summary><strong>Certificates & skill badges</strong></summary>
 
-**Google Cloud**
-- Google Cloud Computing Foundations Certificate
-- Build a Secure Google Cloud Network — Skill Badge
-- Prepare Data for ML APIs on Google Cloud — Skill Badge
+<br>
 
-**Udemy — Certificates of Completion**
-- Fundamentals of Business Data Analysis
-- Power BI – Data Analysis and Business Intelligence
+**Google Cloud**
+
+<p>
+  <a href="https://www.credly.com/badges/bd4e8a03-a035-4b8e-bc76-135ff8a8683d/public_url">
+    <img src="https://img.shields.io/badge/Google_Cloud-Computing_Foundations_Certificate-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud Computing Foundations Certificate">
+  </a>
+</p>
+
+<p>
+  <a href="https://www.credly.com/badges/a2b76c89-e450-4bae-a437-8f34fc780cef/public_url">
+    <img src="https://img.shields.io/badge/Skill_Badge-Build_a_Secure_Google_Cloud_Network-34A853?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Build a Secure Google Cloud Network">
+  </a>
+  <a href="https://www.credly.com/badges/c6cd37b3-13cb-4d79-896a-2df30c2dbfad/public_url">
+    <img src="https://img.shields.io/badge/Skill_Badge-Prepare_Data_for_ML_APIs-FBBC04?style=for-the-badge&logo=googlecloud&logoColor=black" alt="Prepare Data for ML APIs on Google Cloud">
+  </a>
+  <a href="https://www.credly.com/badges/26f620f9-373f-46e8-9435-52817dcd647d/public_url">
+    <img src="https://img.shields.io/badge/Skill_Badge-Implement_Load_Balancing_on_Compute_Engine-EA4335?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Implement Load Balancing on Compute Engine">
+  </a>
+  <a href="https://www.credly.com/badges/c5949393-b5cc-4cb2-b874-9d7d9d1e825d/public_url">
+    <img src="https://img.shields.io/badge/Skill_Badge-Set_Up_an_App_Dev_Environment_on_Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Set Up an App Dev Environment on Google Cloud">
+  </a>
+</p>
+
+**Udemy**
+
+<p>
+  <img src="https://img.shields.io/badge/Udemy-Fundamentals_of_Business_Data_Analysis-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Fundamentals of Business Data Analysis">
+  <img src="https://img.shields.io/badge/Udemy-Power_BI_Data_Analysis_and_Business_Intelligence-A435F0?style=for-the-badge&logo=udemy&logoColor=white" alt="Power BI - Data Analysis and Business Intelligence">
+</p>
 
 </details>
 
