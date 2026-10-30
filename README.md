@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Computer Science Engineer</strong><br>
-  Business Intelligence · Process Automation · Software Development
+  Data · Process Automation · Software Development
 </p>
 
 <p align="center">
@@ -12,42 +12,59 @@
 
 <p align="center">
   <a href="mailto:andrey.zamora2004@hotmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge" alt="Email Andrey">
+    <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Andrey">
+  </a>
+  <a href="https://www.linkedin.com/in/andrey-zamora-092712347/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Andrey">
   </a>
   <a href="https://github.com/AndreyZ15?tab=repositories">
     <img src="https://img.shields.io/badge/Explore_My_Code-334155?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories">
   </a>
 </p>
 
-I turn operational needs into dashboards, automated workflows, and business applications. My experience at **Nearlinx LLC** combines Power BI reporting, data management, and custom Odoo ERP development.
+> 🇨🇷 *Ingeniero en Computación enfocado en convertir procesos operativos en datos claros y herramientas automatizadas.*
+
+I turn operational processes into **clear data and automated tools**: Power BI dashboards, reporting workflows, and custom Odoo ERP development. My experience at **Nearlinx LLC** combines business intelligence, data management, and software development in real business environments.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/SQL-334155?style=flat" alt="SQL">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat" alt="Power BI">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI">
   <img src="https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white" alt="Odoo">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat" alt="C#">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat&logo=csharp&logoColor=white" alt="C#">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git">
 </p>
 
 ## Selected Work
 
-**📋Business Intelligence & Reporting**  
-Power BI dashboards and automated operational reports, supported by centralized data management with Microsoft Access and Excel VBA.
+**📊 Business Intelligence & Reporting**  
+Power BI dashboards and automated operational reports that turn large volumes of data into clear, decision-ready insights. Automation reduced manual data handling, and executive-friendly visuals made it easy to present results to managers and business owners, supporting faster, data-driven problem solving. Backed by centralized data management with Microsoft Access and Excel VBA.
+<!-- Agrega un resultado: ej. "Reduced manual reporting time by X hours per week" -->
 
 **⚙️ Odoo ERP Development**  
-Custom attendance tracking, break management, automated email notifications, and role-based validations using Python, XML, JavaScript, and PostgreSQL.
+Built a custom attendance and workforce management solution in Odoo, introducing digital check-in/check-out and break tracking to a team that previously had no structured system. Gave management real-time visibility into attendance and punctuality, with automated email notifications and role-based validations to keep records accurate and prevent misuse. Built with Python, XML, JavaScript, and PostgreSQL.
+<!-- Agrega un resultado: ej. "Eliminated duplicate attendance records" -->
 
 **🔐 Compliance & Access Controls**  
 Support for PCI DSS documentation, audit evidence organization, and Microsoft Entra ID access control validation.
+
+## Public Projects
+
+<!-- Cuando los tengas, enlaza aquí tus proyectos públicos con datos ficticios -->
+| Project | What it shows |
+| :--- | :--- |
+| 🔜 Sample Power BI dashboard | BI & data storytelling (sample data) |
+| 🔜 Odoo attendance module (demo) | ERP development with Python, XML, JS |
+| 🔜 Automation script | Process automation with Python |
 
 <details>
 <summary><strong>More about my professional experience</strong></summary>
 
 ### Nearlinx LLC — Business Consultant
+*Jan 2026 – Oct 2026*
 
 **Odoo Attendance & Workforce Automation**
 - Developed employee check-in/check-out and break management functionality.
@@ -71,17 +88,9 @@ Support for PCI DSS documentation, audit evidence organization, and Microsoft En
 </details>
 
 <details>
-<summary><strong>Technical toolkit</strong></summary>
+<summary><strong>Also familiar with</strong></summary>
 
-| Area | Technologies |
-| :--- | :--- |
-| Data & BI | Power BI, Excel VBA, Microsoft Access |
-| Databases | PostgreSQL, SQL Server, SQL |
-| Programming | Python, JavaScript, C#, Java, C, C++ |
-| Web & Applications | HTML, CSS, XML, .NET, Node.js, Express.js |
-| ERP | Odoo ERP, Odoo Studio |
-| Development Tools | Git, Docker |
-| Identity & Security | Microsoft Entra ID, PCI DSS documentation |
+Java · C · C++ · HTML · CSS · XML · .NET · Node.js · Express.js · Odoo Studio · Microsoft Entra ID · PCI DSS documentation
 
 </details>
 
@@ -104,16 +113,8 @@ Universidad Latina de Costa Rica · 2023–2026
 
 </details>
 
-<details>
-<summary><strong>Languages in my public repositories</strong></summary>
-
-![Public repository languages](https://ghstats.dev/api/langs?username=AndreyZ15&theme=tokyonight&layout=donut&max_langs=6&hide_border=true&border_radius=12)
-
-*This chart reflects public repository code, not my full professional toolkit.*
-
-</details>
-
 ---
 
-**Open to opportunities in data analytics, BI, software development, and automation.**  
-Spanish: Native · English: Advanced
+**Open to opportunities in data analytics / BI, process automation, and software development (Python, Odoo).**  
+📍 Costa Rica · Remote / Hybrid / On-site · Available: *Now*  
+🗣️ Spanish: Native · English: Advanced
