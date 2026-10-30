@@ -12,8 +12,8 @@
 
 <p align="center">
   <a href="mailto:andrey.zamora2004@hotmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Andrey">
-  </a>
+  <img src="https://img.shields.io/badge/Email_Me-2563EB?style=for-the-badge" alt="Email Andrey">
+</a>
   <a href="https://www.linkedin.com/in/andrey-zamora-092712347/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Andrey">
   </a>
@@ -90,7 +90,20 @@ Support for PCI DSS documentation, audit evidence organization, and Microsoft En
 <details>
 <summary><strong>Also familiar with</strong></summary>
 
-Java · C · C++ · HTML · CSS · XML · .NET · Node.js · Express.js · Odoo Studio · Microsoft Entra ID · PCI DSS documentation
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/XML-0060AC?style=flat" alt="XML">
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/Odoo_Studio-714B67?style=flat&logo=odoo&logoColor=white" alt="Odoo Studio">
+  <img src="https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=flat" alt="Microsoft Entra ID">
+  <img src="https://img.shields.io/badge/PCI_DSS-334155?style=flat" alt="PCI DSS">
+</p>
 
 </details>
 
